@@ -37,8 +37,7 @@ public class FunFactsActivity extends Activity {
                         "Some penguins can leap 2-3 meters out of the water.",
                         "On average, it takes 66 days to form a new habit.",
                         "Mammoths still walked the earth when the Great Pyramid was being built.",
-                        "Treehouse is not actually in a tree.",
-                        "Monkeys love to eat bananas."};
+                        "Treehouse is not actually in a tree."};
 
                 //The button was clicked, so update the fact label with a new fact
                 String fact = "";
