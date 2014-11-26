@@ -39,7 +39,8 @@ public class FunFactsActivity extends Activity {
                         "Mammoths still walked the earth when the Great Pyramid was being built.",
                         "Treehouse is not actually in a tree.",
                         "Yuffie is a poofie.",
-                        "Yuffie goes meow meow."};
+                        "Yuffie goes meow meow.",
+                        "The Monkey climbs the tree and eats the banana."};
 
                 //The button was clicked, so update the fact label with a new fact
                 String fact = "";
