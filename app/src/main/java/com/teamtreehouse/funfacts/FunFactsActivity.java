@@ -40,7 +40,9 @@ public class FunFactsActivity extends Activity {
                         "Treehouse is not actually in a tree.",
                         "Yuffie is a poofie.",
                         "Yuffie goes meow meow.",
-                        "The Monkey climbs the tree and eats the banana."};
+                        "The Monkey climbs the tree and eats the banana.",
+                        "Flies on the wall eat like a ball.",
+                        "Cows in the house sleep like a mouse."};
 
                 //The button was clicked, so update the fact label with a new fact
                 String fact = "";
