@@ -38,7 +38,8 @@ public class FunFactsActivity extends Activity {
                         "On average, it takes 66 days to form a new habit.",
                         "Mammoths still walked the earth when the Great Pyramid was being built.",
                         "Treehouse is not actually in a tree.",
-                        "Yuffie is a poofie."};
+                        "Yuffie is a poofie.",
+                        "Yuffie goes meow meow."};
 
                 //The button was clicked, so update the fact label with a new fact
                 String fact = "";
